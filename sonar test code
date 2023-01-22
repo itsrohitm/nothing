@@ -1,0 +1,13 @@
+package com.engineer;
+
+public class calc {
+	int fnum;
+	int snum;
+	
+	int adder(int fnum, int snum)
+	{
+		return fnum + snum;
+	}
+
+}
+
